@@ -4,7 +4,7 @@ if (answer == "ECMAScript") {
 } else {
   alert("You don’t knowECMAScript!");
 }
-*/
+
 let value = prompt("Type in a number", "");
 if (value > 0) {
   alert("1");
@@ -13,3 +13,5 @@ if (value > 0) {
 } else {
   alert(0);
 }
+*/
+let result = a + b < 4 ? "Below" : "Over";
